@@ -1,9 +1,13 @@
-🧮 Building a Simple Calculator in Java using AWT! 📊
+<h1>TECH-A-INTERN Task 1</h1> 
+<br><br>
+<h2>A Simple Calculator in Java using AWT!</h2>  
 
-Hey LinkedIn community! 👋 In this post, I'll guide you through creating a basic calculator using Java's Abstract Window Toolkit (AWT). This calculator will perform addition, subtraction, multiplication, and division, showcasing the power of Java's GUI capabilities.
+<p> This is a basic calculator using Java's Abstract Window Toolkit (AWT). This calculator will perform addition, subtraction, multiplication, and division, showcasing the power of Java's GUI capabilities.</p>
+<br>
 
-Let's get started with the step-by-step process:
+<h3>Let's get started with the step-by-step process:</h3>
 
+<p>
 **Step 1: Set Up Your Project**
 Create a new Java project in your favorite IDE and make sure to have AWT imported.
 
@@ -21,8 +25,11 @@ Create a text area or label to display the input expression and the calculated r
 
 **Step 6: Run Your Calculator**
 Finally, set up the main method to create an instance of your calculator UI and display it to the user.
+</p>
 
+<br>
 
-Building a simple calculator using AWT in Java is a fantastic way to learn about GUI programming and event handling. It's a stepping stone to more complex applications with graphical interfaces. Feel free to customize and expand upon this foundation as you continue to explore the world of Java and GUI development! 🚀🌟
-
+<p>Building a simple calculator using AWT in Java is a fantastic way to learn about GUI programming and event handling. It's a stepping stone to more complex applications with graphical interfaces. Feel free to customize and expand upon this foundation as you continue to explore the world of Java and GUI development! 🚀🌟
+</p>
+<br>
 #JavaProgramming #AWT #CalculatorApp #GUIDevelopment
